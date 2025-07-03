@@ -1,0 +1,2 @@
+useradd simple_user
+useradd dev_user
